@@ -13,3 +13,4 @@ const numeroFlutuanteSemZero = .5;
 const novaOperacao = primeiroNumero / numeroPontoFlutuante;
 
 console.log(novaOperacao);
+//testando
